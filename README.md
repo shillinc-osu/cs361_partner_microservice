@@ -11,4 +11,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.sendall(b"META")
     data = s.recv(65536)
 
-![image failed to load.](blob:null/11780d2f-7119-46c9-afbe-29d7b21b8518)
+![Blank diagram(1)](https://user-images.githubusercontent.com/122574115/218385737-e46e7ab4-e2cf-4508-afba-28e9acaa4eb5.png)
